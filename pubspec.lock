@@ -73,10 +73,11 @@ packages:
   flutter_overlay_window:
     dependency: "direct main"
     description:
-      name: flutter_overlay_window
-      sha256: "9a1f3f88386cf8dc526b6b56f1473080e06df1fea2a4eb1ee08f59dfc02ca3f2"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: "49f0c43105007ac343e9cc199c6956474450f83d"
+      resolved-ref: "49f0c43105007ac343e9cc199c6956474450f83d"
+      url: "https://github.com/X-SLAYER/flutter_overlay_window"
+    source: git
     version: "0.3.3"
   flutter_test:
     dependency: "direct dev"

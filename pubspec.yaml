@@ -35,7 +35,11 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  flutter_overlay_window: ^0.3.3
+#  flutter_overlay_window: ^0.3.3
+  flutter_overlay_window:
+    git:
+        url: https://github.com/X-SLAYER/flutter_overlay_window
+        ref: 49f0c43105007ac343e9cc199c6956474450f83d
 
 dev_dependencies:
   flutter_test:
